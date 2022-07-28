@@ -1,3 +1,3 @@
 # vigilant-chainsaw
 
-iam a noob programer exploring github :)
+iam a noob programmer exploring github :)
